@@ -5,7 +5,7 @@
         i. ABPDANV030PGSA3: 透過壓力感測器收集壓力，藉此判斷是否要翻身，及持續同樣的壓力多久了
         ii. Xilinx_PYNQZ2: 開發可用Python，方便撰寫
     4. 硬體連接架構圖:
-![image](https://user-images.githubusercontent.com/75562902/125158727-8f99b200-e1a5-11eb-9621-3adf3e5cf9f1.png)
+    ![image](https://user-images.githubusercontent.com/75562902/125158727-8f99b200-e1a5-11eb-9621-3adf3e5cf9f1.png)
 
     5. 程式碼說明
         i. pynq_z2_aiot.py: 測壓力檔
