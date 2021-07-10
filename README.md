@@ -7,6 +7,7 @@
    
    ii. Xilinx_PYNQZ2: 開發可用Python，方便撰寫
 4. 硬體連接架構圖:
+
 ![image](https://github.com/Yuuuuuuuuuuan/2021_AIOT_longcare/blob/main/hardware_connection.png)
 5. 程式碼說明
     i. pynq_z2_aiot.py: 測壓力檔
